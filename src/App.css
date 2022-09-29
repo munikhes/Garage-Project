@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+.button {
+  background-color: #4CAF50; 
+  color: white;
+  padding: 5px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+table,th,td{
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  min-width: 150px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  text-align: left;
+  border: 1px solid;
+}
+body{
+  background-image: url("https://wallpapercave.com/wp/MG1C4s7.jpg");
+  background-repeat: no-repeat;
+  text-align: center;
+  background-size:90%
+}
+
