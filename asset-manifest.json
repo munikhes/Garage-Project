@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Garage-Project/static/css/main.2c11d2c1.css",
+    "main.js": "/Garage-Project/static/js/main.dfd3a238.js",
+    "static/js/787.22d0383f.chunk.js": "/Garage-Project/static/js/787.22d0383f.chunk.js",
+    "index.html": "/Garage-Project/index.html",
+    "main.2c11d2c1.css.map": "/Garage-Project/static/css/main.2c11d2c1.css.map",
+    "main.dfd3a238.js.map": "/Garage-Project/static/js/main.dfd3a238.js.map",
+    "787.22d0383f.chunk.js.map": "/Garage-Project/static/js/787.22d0383f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c11d2c1.css",
+    "static/js/main.dfd3a238.js"
+  ]
+}
